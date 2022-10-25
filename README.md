@@ -1,2 +1,3 @@
-# pwm-control
-Pulse Width Modulation (PWM) Control: Application to Electric Vehicle (EV)/Hybrid Electric Vehicle
+# Pulse Width Modulation (PWM) Control: Application to Electric Vehicle (EV)/Hybrid Electric Vehicles
+
+The DC/AC converter (i.e., inverter) transforms a continuous signal into an alternate signal. This conversion process is extremely important for applications where the goal is to control the frequency and amplitude of the output signal such as Photovoltaic (PV) systems connected to the grid or propulsion control of an electric motor present in an Electric Vehicle (EV). The figure presents a 3-phase inverter supplied by a continuous voltage provided by a battery pack and feeding an inductive load such as a synchronous motor.  
